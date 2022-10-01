@@ -1,2 +1,2 @@
 print("issshyoboe badsaaaaaaaaaaaaaaa")
-Banno ki Saheli
+print("Banno ki Saheli")
